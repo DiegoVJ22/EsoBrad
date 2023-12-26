@@ -8,6 +8,7 @@ function changeLanguage(language) {
         document.getElementById('n4').innerText = "Testimonios";
         //inicio
         document.getElementById('slogan').innerText = "¡ÚNETE AL MEJOR GRUPO DE APUESTAS Y GANA CON NOSOTROS!";
+        document.getElementById('tpicks').innerText = "NUESTROS PICKS DEL DÍA";
         //nosotros
         document.getElementById('pregunta').innerText = "¿Por qué elegirnos?";
         document.getElementById('t1').innerText = "En nuestra plataforma de apuestas online, garantizamos emoción y ganancias a lo grande. ¿Por qué escogernos? Porque somos tu mejor jugada para aciertos y victorias. Con una amplia gama de opciones, desde deportes hasta juegos de casino, cada apuesta es una oportunidad para ganar en grande.";
@@ -22,6 +23,7 @@ function changeLanguage(language) {
         document.getElementById('l2').innerText = "Ingresa tu correo";
         document.getElementById('l3').innerText = "Ingresa tu teléfono";
         document.getElementById('lb').innerText = "Enviar";
+        document.getElementById('ttes').innerText = "TESTIMONIOS";
         //footer
         document.getElementById('f1').innerText = "INICIO";
         document.getElementById('f2').innerText = "CONTACTO";
@@ -38,6 +40,7 @@ function changeLanguage(language) {
         document.getElementById('n4').innerText = "Testimonials";
         //inicio
         document.getElementById('slogan').innerText = "JOIN THE BEST BETTING GROUP AND WIN WITH US!";
+        document.getElementById('tpicks').innerText = "OUR PICKS OF THE DAY";
         //nosotros
         document.getElementById('pregunta').innerText = "Why choose us?";
         document.getElementById('t1').innerText = "On our online betting platform, we guarantee excitement and big wins. Why choose us? Because we are your best bet for successes and victories. With a wide range of options, from sports to casino games, every bet is a chance to win big.";
@@ -52,6 +55,7 @@ function changeLanguage(language) {
         document.getElementById('l2').innerText = "Enter your e-mail";
         document.getElementById('l3').innerText = "Enter your phone-number";
         document.getElementById('lb').innerText = "Send";
+        document.getElementById('ttes').innerText = "TESTIMONIALS";
         //footer
         document.getElementById('f1').innerText = "HOME";
         document.getElementById('f2').innerText = "CONTACT";
@@ -68,6 +72,7 @@ function changeLanguage(language) {
         document.getElementById('n4').innerText = "Depoimentos";
         //inicio
         document.getElementById('slogan').innerText = "JUNTE-SE AO MELHOR GRUPO DE APOSTAS E GANHE CONOSCO!";
+        document.getElementById('tpicks').innerText = "NOSSAS ESCOLHAS DO DIA";
         //nosotros
         document.getElementById('pregunta').innerText = "Porque escolher-nos?";
         document.getElementById('t1').innerText = "Na nossa plataforma de apostas online garantimos emoção e grandes ganhos. Porque escolher-nos? Porque somos a sua melhor aposta para sucessos e vitórias. Com uma ampla gama de opções, desde esportes até jogos de cassino, cada aposta é uma chance de ganhar muito.";
@@ -82,6 +87,7 @@ function changeLanguage(language) {
         document.getElementById('l2').innerText = "Digite seu e-mail";
         document.getElementById('l3').innerText = "Digite seu telefone";
         document.getElementById('lb').innerText = "Enviar";
+        document.getElementById('ttes').innerText = "DEPOIMENTOS";
         //footer
         document.getElementById('f1').innerText = "INÍCIO";
         document.getElementById('f2').innerText = "CONTATO";
